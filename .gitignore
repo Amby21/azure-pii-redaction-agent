@@ -1,0 +1,12 @@
+# secrets and local config
+.env
+*.env
+
+# run-time output (audit log holds only counts, but keep it out of the repo)
+pii_audit.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

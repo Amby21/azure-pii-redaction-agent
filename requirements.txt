@@ -1,0 +1,4 @@
+agent-framework
+azure-ai-textanalytics
+azure-identity
+pydantic
